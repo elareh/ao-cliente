@@ -1,5 +1,5 @@
 [INIT]
-Cant=5
+Cant=6
 
 [S1]
 Desc=Rol - Alkon 0.13.X
@@ -28,6 +28,12 @@ Mundo=Alkon
 [S5]
 Desc=Servidor Local | Modo:Alkon 0.13.X
 IP=localhost
+PJ=7666
+Mundo=Alkon
+
+[S6]
+Desc=Agite - x500
+IP=190.191.229.246
 PJ=7666
 Mundo=Alkon
 
